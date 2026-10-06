@@ -1,4 +1,8 @@
+進入環境
 conda activate py-study
+
+退出環境
+conda deactivate
 
 檢查修改
 git status 
